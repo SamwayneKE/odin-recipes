@@ -9,9 +9,11 @@ In this project, i will be using Hyper Text Markup language(HTML) to build three
 
 3. Rice
 
-![Happy Christmas](images/rice2.jpeg)
+![Served rice](images/rice2.jpeg)
 
 5. Matoke/Plantain
+
+![Served Plantain/matoke](images/matoke2.jpeg)
 
 The skills demonstrated here is basic HTML syntax for links(ordered and unordered lists), tags, images, among other elements.
 
