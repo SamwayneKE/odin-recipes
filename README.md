@@ -5,7 +5,7 @@ In this project, i will be using Hyper Text Markup language(HTML) to build three
 1. Mukimo
 
 
-![Mukimo image when full cooked](images/mukimo3.jpeg)
+![Mukimo image when full cooked](images/mukimo2.jpg)
 
 3. Rice
 
